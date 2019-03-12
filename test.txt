@@ -1,0 +1,9 @@
+/home/bharat/PycharmProjects/yolo_custom_detection_poles/github/dataset/57.jpg
+/home/bharat/PycharmProjects/yolo_custom_detection_poles/github/dataset/90.jpg
+/home/bharat/PycharmProjects/yolo_custom_detection_poles/github/dataset/65.jpg
+/home/bharat/PycharmProjects/yolo_custom_detection_poles/github/dataset/36.jpg
+/home/bharat/PycharmProjects/yolo_custom_detection_poles/github/dataset/89.jpg
+/home/bharat/PycharmProjects/yolo_custom_detection_poles/github/dataset/12.jpg
+/home/bharat/PycharmProjects/yolo_custom_detection_poles/github/dataset/44.jpg
+/home/bharat/PycharmProjects/yolo_custom_detection_poles/github/dataset/29.jpg
+/home/bharat/PycharmProjects/yolo_custom_detection_poles/github/dataset/84.jpg
