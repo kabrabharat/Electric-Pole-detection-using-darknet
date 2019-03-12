@@ -12,13 +12,15 @@ these images and can succssfully detect poles on a image or video with accuracy 
 # Training Chart (graph)
 ![](chart.png)
 
-#Prediction
+# Prediction
 ![](predictions.jpg)
 
 # Terminal command for testing
 
 for Video:
-./darknet detector demo cfg/trainer.data cfg/obj-yolov3-tiny.cfg obj-yolov3-tiny_6000.weights <video>.mp4 
+
+<code>./darknet detector demo cfg/trainer.data cfg/obj-yolov3-tiny.cfg obj-yolov3-tiny_6000.weights "video.mp4" 
  
 for Image:
-./darknet detector test cfg/trainer.data cfg/obj-yolov3-tiny.cfg obj-yolov3-tiny_6000.weights <image>.jpg 
+
+<code>./darknet detector test cfg/trainer.data cfg/obj-yolov3-tiny.cfg obj-yolov3-tiny_6000.weights "image.jpg" 
