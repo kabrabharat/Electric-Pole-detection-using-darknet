@@ -6,8 +6,7 @@ the image. It require a set of data consisting of images of poles from various a
 The images are then labeled using a tool which draws a rectangle around
 the image where the pole is located. These labeled images are resized and proccessed
 to reduce its size before training the neural network. The neural network is trained on
-these images and can succssfully detect poles on a image or video with accuracy upto
-97% at 30 FPS video.
+these images and can succssfully detect poles on a image or video.
 
 # Training Chart (graph)
 ![](chart.png)
